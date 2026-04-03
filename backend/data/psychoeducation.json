@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "category": "depression",
+    "title": "What is Depression?",
+    "content": "Depression is a medical condition — not a personal weakness or character flaw. It affects how you think, feel, and function. It's as real as diabetes or heart disease.",
+    "fact": "Globally, over 280 million people live with depression. You are not alone.",
+    "action": "If you've felt persistently sad for more than 2 weeks, speak to a doctor or counselor.",
+    "emoji": "🧠"
+  },
+  {
+    "id": 2,
+    "category": "anxiety",
+    "title": "Understanding Anxiety",
+    "content": "Anxiety is your body's natural response to stress. But when it's constant, overwhelming, or out of proportion — it may be an anxiety disorder that can be treated.",
+    "fact": "Anxiety disorders are the most common mental health condition worldwide, affecting 1 in 13 people.",
+    "action": "Controlled breathing and gradual exposure are proven ways to reduce anxiety.",
+    "emoji": "💭"
+  },
+  {
+    "id": 3,
+    "category": "stigma",
+    "title": "Breaking the Stigma",
+    "content": "In India, over half of people still view mental illness as weakness. This stigma prevents millions from seeking help. Mental illness is not weakness — it is biology.",
+    "fact": "70–92% of Indians with mental health conditions receive no professional help, largely due to stigma.",
+    "action": "Talk openly about mental health. Normalize the conversation.",
+    "emoji": "💪"
+  },
+  {
+    "id": 4,
+    "category": "sleep",
+    "title": "Sleep & Mental Health",
+    "content": "Poor sleep and mental health create a vicious cycle — depression worsens sleep, and bad sleep worsens depression. Improving sleep is one of the most impactful things you can do.",
+    "fact": "People with insomnia are 10x more likely to develop clinical depression.",
+    "action": "Maintain a fixed sleep time, avoid screens 1 hour before bed, and keep your room cool and dark.",
+    "emoji": "🌙"
+  },
+  {
+    "id": 5,
+    "category": "exercise",
+    "title": "Movement as Medicine",
+    "content": "Exercise is one of the most evidence-backed treatments for mild to moderate depression. It releases endorphins, reduces cortisol, and improves neuroplasticity.",
+    "fact": "30 minutes of moderate exercise 3x/week is as effective as antidepressants for mild depression.",
+    "action": "Start with a 10-minute walk daily. Consistency matters more than intensity.",
+    "emoji": "🚶"
+  },
+  {
+    "id": 6,
+    "category": "seeking_help",
+    "title": "When to Seek Help",
+    "content": "You don't need to be in crisis to see a therapist. If your feelings are affecting your work, relationships, or daily life — that's enough reason to reach out.",
+    "fact": "The average person waits 11 years between first experiencing symptoms and seeking treatment.",
+    "action": "Reach out today. iCall: 9152987821 | Tele-MANAS: 14416",
+    "emoji": "🤝"
+  },
+  {
+    "id": 7,
+    "category": "self_care",
+    "title": "Self-Care is Not Selfish",
+    "content": "Rest, boundaries, saying no, taking breaks — these are not luxuries. They are essential for mental health, especially for students under academic pressure.",
+    "fact": "Chronic academic stress is one of the top contributors to anxiety among Indian college students.",
+    "action": "Schedule 20 minutes of personal time daily — no phone, no studying. Just rest.",
+    "emoji": "🌸"
+  },
+  {
+    "id": 8,
+    "category": "connection",
+    "title": "The Power of Connection",
+    "content": "Social isolation significantly worsens mental health. Even brief, meaningful conversations can reduce cortisol and increase oxytocin. Reach out to someone today.",
+    "fact": "Loneliness has the same health impact as smoking 15 cigarettes a day.",
+    "action": "Send one message to someone you haven't talked to in a while.",
+    "emoji": "❤️"
+  }
+]

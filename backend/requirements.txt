@@ -1,0 +1,10 @@
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+pydantic==2.7.0
+python-dotenv==1.0.1
+httpx==0.27.0
+
+# Optional: uncomment ONLY if you want the HuggingFace emotion model
+# (requires ~2GB disk + 5 min download on first run)
+# transformers==4.41.0
+# torch==2.3.0
