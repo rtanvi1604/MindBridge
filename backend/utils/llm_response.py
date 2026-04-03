@@ -1,7 +1,7 @@
 import requests
 from utils.response_generator import generate_chat_response  # fallback
 
-API_KEY = "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"
+API_KEY = ""
 
 
 def generate_llm_response(user_message, emotion, risk_level, history=None):
