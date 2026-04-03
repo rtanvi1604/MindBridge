@@ -241,7 +241,7 @@ MindBridge is a **screening and support tool only**. It is **not a substitute** 
 
 ---
 
-## 👩‍💻 Team
+## 👩‍💻 Team - By, Tanvi R
 
 Built for **Codecure AI Hackathon · SPIRIT 2026 · IIT (BHU) Varanasi**
 
